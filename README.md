@@ -6,7 +6,7 @@
     JJJJ   OOO  A       A  N   N  N   N  EEEEE 
 
 ```
-
+## About Me 
 I am a writer, artist, and programmer. I previously studied math and philosophy at Brown University. 
 
 
