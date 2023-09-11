@@ -1,11 +1,9 @@
-# Hi! This is
-
 ```
-       J   OOO  A   N   N N   N EEEEE
-       J  O   O A A  NN  N NN  N E    
-       J  O   OAAAAA N N N N N N EEE  
-   J   J  O   OA   A N  NN N  NN E    
-    JJJJ   OOOA   A N   N N   N EEEEE 
+       J   OOO      A      N   N  N   N  EEEEE
+       J  O   O    A A     NN  N  NN  N  E    
+       J  O   O   AAAAA    N N N  N N N  EEE  
+   J   J  O   O  A     A   N  NN  N  NN  E    
+    JJJJ   OOO  A       A  N   N  N   N  EEEEE 
 
 ```
 
