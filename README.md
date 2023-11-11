@@ -1,4 +1,5 @@
 programmer && writer
+math and philosophy enthusiast
 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
