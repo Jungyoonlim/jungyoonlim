@@ -1,4 +1,5 @@
 curr: 85% programmer && 15% writer
+
 prev: math and philosophy enthusiast / mystic / artist ... among many things 
 
 ## Find Me
