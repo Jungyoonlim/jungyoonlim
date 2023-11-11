@@ -1,6 +1,7 @@
-curr: programmer and writer
+## Who am I?
+curr: Programmer and Writer
 
-prev: math and philosophy enthusiast / ancient languages and literature (greco-roman) / zen practitioner / mystic / painter / literary magazine head ... among many things 
+prev: Math and Philosophy Student / Ancient Languages and Literature / Zen Practitioner / Painter ... among many things 
 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
