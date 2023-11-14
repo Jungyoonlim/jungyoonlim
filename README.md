@@ -1,7 +1,6 @@
 ## Who am I?
-curr: Programmer and Writer
-
-prev: Math and Philosophy @ Brown University / Ancient Languages and Literature / Zen Practitioner / Painter ... among many things 
+curr: Writer and Programmer, 
+prev: Math and Philosophy @ Brown University
 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
