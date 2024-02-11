@@ -1,6 +1,9 @@
+# Joanne
 **Artist and Engineer** with interests in Fine Art, Paintings, Computer Vision, Creative Technology: Real-time 3D, 3D Modeling, Perception Software for Robotics. 
 
-Currently building a 3D object viewer / annotator / environment simulation software for robots and a robotic arm. 
+# Currently building 
+(i) a 3D object viewer / annotator / environment simulation software for robots
+(ii) a robotic arm. 
 
 Languages:
 - Python
