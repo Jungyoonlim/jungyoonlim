@@ -1,6 +1,6 @@
 **Artist and Engineer** with interests in Fine Art, Paintings, Computer Vision, Creative Technology: Real-time 3D, 3D Modeling, Perception Software for Robotics. 
 
-Currently focused on 3D Computer Vision + Perception / Robotic Learning by building a Robotic Arm and 3D object viewer + environment simulation software. 
+Currently building a 3D object viewer / annotator / environment simulation software for robots and a robotic arm. 
 
 Languages:
 - Python
