@@ -3,7 +3,7 @@
 
 # Currently building 
 - (i) 3D object viewer / annotator / environment simulation software for robots
-- (ii) robotic arm. 
+- (ii) Robotic arm. 
 
 In my previous lives, I studied Applied Mathematics and Philosophy at Brown University, and as a kid I was trained as a fine artist. 
 
