@@ -2,8 +2,8 @@
 **Artist and Engineer** with interests in Fine Art, Paintings, Computer Vision, Creative Technology: Real-time 3D, 3D Modeling, Perception Software for Robotics. 
 
 # Currently building 
-- (i) a 3D object viewer / annotator / environment simulation software for robots
-- (ii) a robotic arm. 
+- (i) 3D object viewer / annotator / environment simulation software for robots
+- (ii) robotic arm. 
 
 In my previous lives, I studied Applied Mathematics and Philosophy at Brown University, and as a kid I was trained as a fine artist. 
 
