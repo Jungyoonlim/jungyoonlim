@@ -1,4 +1,4 @@
-Interests in Paintings, Computer Vision, Real-time 3D, 3D Modeling, Perception Software for Robotics.
+Artist and Engineer. Interests in Paintings, Computer Vision, Real-time 3D, 3D Modeling, Perception Software for Robotics.
 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
