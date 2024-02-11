@@ -6,7 +6,8 @@ Languages:
 - Python
 - JavaScript/React/Typescript
 - HTML/CSS
-- C++ 
+- C++
+- Swift (Learning)
 
 In my previous lives, I studied Applied Mathematics and Philosophy at Brown University, and I was trained as a fine artist. 
 
