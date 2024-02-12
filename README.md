@@ -7,8 +7,7 @@ Interests in Fine Art, Paintings, Design, Creative Technology, Computer Vision, 
 - (i) 3D object viewer / annotator / environment simulation software for robots. 
 - (ii) Robotic arm. 
 
-In my previous lives, I studied Applied Mathematics and Philosophy at Brown University, and as a kid I was trained as a fine artist. 
-
+In my previous lives, I studied Applied Mathematics and Philosophy at Brown University. 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
 - <a href="https://limjungyoon.com/art.html">Artwork</a>
