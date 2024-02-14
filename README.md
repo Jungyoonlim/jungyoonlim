@@ -1,6 +1,8 @@
 # Joanne
 **Artist and Engineer**
 
+Interests: Paintings and Robotics
+
 In my previous life, I studied Applied Mathematics and Philosophy at Brown University. 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
