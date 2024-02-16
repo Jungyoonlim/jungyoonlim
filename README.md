@@ -1,7 +1,5 @@
 # Joanne
-**Artist and Engineer**
-
-Interests: Paintings and Robotics / Computer Vision. 
+Art & Design. 
 
 In my previous life, I studied Applied Mathematics and Philosophy at Brown University. 
 ## Find Me
