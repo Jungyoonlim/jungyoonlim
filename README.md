@@ -1,5 +1,5 @@
 # Joanne
-Art & Design. 
+Art & Design ++ Creative Tech. 
 
 In my previous life, I studied Applied Mathematics and Philosophy at Brown University. I am a classically trained artist. 
 ## Find Me
