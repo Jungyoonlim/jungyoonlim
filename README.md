@@ -1,5 +1,5 @@
 # Joanne
-I am an artist and computational designer, working across all mediums. 
+I am an artist and designer, working across all mediums. 
 
 In my previous life, I studied Applied Mathematics and Philosophy at Brown University. I am a classically trained artist. 
 ## Find Me
