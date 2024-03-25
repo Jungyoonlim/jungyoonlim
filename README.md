@@ -1,5 +1,4 @@
 # Joanne
-does software and art 
 
 ## Find Me
 - <a href="https://limjungyoon.com/">Website</a>
