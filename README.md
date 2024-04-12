@@ -3,7 +3,7 @@
 - Prev studied Math (Applied) + Philosophy at Brown University. 
 - Interests in Fine Art/Design, Math, Tech. 
 
-## Find Me
+### Links
 - <a href="https://limjungyoon.com/">Website</a>
 - <a href="https://limjungyoon.com/art.html">Artwork</a>
 - <a href="https://jungyoonlim.substack.com/">Writing</a>
