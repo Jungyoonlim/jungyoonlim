@@ -1,7 +1,7 @@
 # Joanne
 - Programmer. 
 - Prev studied Math (Applied) + Philosophy at Brown University. 
-- Interests in Fine Art/Design, Math, Tech. 
+- Interests in Fine Art/Design, Math, Computers. 
 
 ### Links
 - <a href="https://limjungyoon.com/">Website</a>
