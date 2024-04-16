@@ -1,5 +1,5 @@
 # Joanne
-- Programmer / Engineer. 
+- Programmer. 
 - Prev studied Math and Philosophy at Brown University. 
 - Side Interests in Fine Art/Design, Mathematical Physics.  
 
