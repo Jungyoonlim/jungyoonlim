@@ -1,6 +1,4 @@
 # Jungyoon Joanne Lim          
-- Programmer. 
-- Prev studied Math and Philosophy at Brown University. 
 
 ### Links
 - <a href="https://limjungyoon.com/">Website</a>
