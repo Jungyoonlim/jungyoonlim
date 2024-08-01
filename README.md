@@ -1,10 +1,10 @@
 # Jungyoon Joanne Lim  
 
+artist + programmer
+
 Curr Focus: 
-- Creative Software
 - Design {product, graphic}
-- AI Interface
-- Human-computer Interface
+- AI software interface + HCI
 
 Prev done things like: 
 - Applied Math and Philosophy at Brown University
