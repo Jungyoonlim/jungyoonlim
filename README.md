@@ -3,6 +3,9 @@
 artist + programmer
 
 Curr Focus: 
+Software at the intersection of design, human-computer interface, and AI.
+
+Curr Major interests:
 - Design {product, graphic}
 - AI software interface + HCI
 
