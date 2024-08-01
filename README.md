@@ -1,12 +1,11 @@
 # Jungyoon Joanne Lim  
 
-Programmer and designer 
+Curr: 
+- Design {product, graphic}
+- AI Interface
+- HCI
 
-x Design {interface, graphic} //
-x Human Computer Interface //
-X AI Interface
-
-Prev done things like: 
+Prev: done things like: 
 - Applied Math and Philosophy at Brown University
 - Ancient Greek (χαιρε!), Latin, Ancient Philosophy
 - Fine Art (https://limjungyoon.com/art) 
