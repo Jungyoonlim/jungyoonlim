@@ -8,5 +8,5 @@ X AI Interface
 
 Prev done things like: 
 - Applied Math and Philosophy at Brown University
-- Ancient Greek (χαιρε!) and Latin
+- Ancient Greek (χαιρε!), Latin, Ancient Philosophy
 - Fine Art (https://limjungyoon.com/art) 
