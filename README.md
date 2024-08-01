@@ -2,8 +2,8 @@
 
 Programmer and designer 
 
-x Design {interface, graphic}
-x Human Computer Interface
+x Design {interface, graphic} //
+x Human Computer Interface //
 X AI Interface
 
 Prev done things like: 
