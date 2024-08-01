@@ -1,9 +1,10 @@
 # Jungyoon Joanne Lim  
 
 Curr Focus: 
+- Creative Software
 - Design {product, graphic}
 - AI Interface
-- HCI
+- Human-computer Interface
 
 Prev done things like: 
 - Applied Math and Philosophy at Brown University
