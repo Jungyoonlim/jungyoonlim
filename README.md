@@ -1,5 +1,5 @@
 # Jungyoon Joanne Lim  
 
 Curr Focus: 
-Intersection of art & design, human-computer interface, and AI.
+Intersection of Art & Design, Human-Computer Interface, and AI.
 
