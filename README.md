@@ -1,2 +1,2 @@
 # Jungyoon Joanne Lim  
-Designer, Design Engineer
+Designer, Engineer
