@@ -1,1 +1,1 @@
-**Designer / Design Engineer** — <br />
+**Designer / Design Engineer** <br />
