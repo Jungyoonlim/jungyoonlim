@@ -1,3 +1,4 @@
 Math, Philosophy, Human-Computer Interaction, and Art & Design
 
-Check https://github.com/Jungyoonlim/type-theory repo to see what I am up to and https://www.limjungyoon.com/portfolio here's my portfolio! 
+Most of my work is close sourced but https://www.limjungyoon.com/portfolio here's my portfolio
+and  https://github.com/Jungyoonlim/type-theory repo that shows a surface level work :)
