@@ -1,3 +1,3 @@
-Currently Engineering Cognitive Interfaces for Mathematical Reasoning
-Previously at Brown (Applied Math + Philosophy) 
-Check out my Art: https://jungyoonlim-fineart.vercel.app/ :) 
+Currently Engineering Cognitive Interfaces for Mathematical Reasoning<br>
+Previously at Brown (Applied Math + Philosophy)<br>
+Check out my Art: <a href="https://jungyoonlim-fineart.vercel.app/">jungyoonlim-fineart.vercel.app</a> :)
