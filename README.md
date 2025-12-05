@@ -1,3 +1,1 @@
-Design Engineer at [Mathematics, Inc](https://www.math.inc/)  </br>
-Interests in Software, Math, Art and Design  </br>
-Previously Applied Mathematics and Philosophy at Brown  
+Software at [Mathematics, Inc](https://www.math.inc/) || Previously Applied Mathematics and Philosophy at Brown  
